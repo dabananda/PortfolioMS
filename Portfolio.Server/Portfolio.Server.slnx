@@ -1,3 +1,8 @@
 <Solution>
-  <Folder Name="/src/" />
+  <Folder Name="/src/">
+    <Project Path="PortfolioMS.Server.Api/PortfolioMS.Server.Api.csproj" Id="d5176cca-d4fd-45ee-82d9-d000179b69d8" />
+    <Project Path="PortfolioMS.Server.Application/PortfolioMS.Server.Application.csproj" Id="a97fbff4-5fdc-4cf7-bb98-a82fd7ff7737" />
+    <Project Path="PortfolioMS.Server.Domain/PortfolioMS.Server.Domain.csproj" Id="5ac032d2-680e-4b69-a417-01abbbdf8944" />
+    <Project Path="PortfolioMS.Server.Infrastructure/PortfolioMS.Server.Infrastructure.csproj" Id="9835bb2d-ae2b-4f1a-ac5c-20138f3726b5" />
+  </Folder>
 </Solution>
