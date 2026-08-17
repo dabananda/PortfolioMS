@@ -1,6 +1,3 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="Portfolio.Server.Api/Portfolio.Server.Api.csproj" />
-    <Project Path="Portfolio.Server.Shared/Portfolio.Server.Shared.csproj" />
-  </Folder>
+  <Folder Name="/src/" />
 </Solution>
