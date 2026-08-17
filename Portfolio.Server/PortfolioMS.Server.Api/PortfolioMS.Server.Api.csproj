@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>73064648-6f37-4fcf-8b62-81a189976095</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PortfolioMS.Server.Application\PortfolioMS.Server.Application.csproj" />
+    <ProjectReference Include="..\PortfolioMS.Server.Infrastructure\PortfolioMS.Server.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
